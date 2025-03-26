@@ -16,16 +16,16 @@
 ---
 
 ### **🔨 Tech Stack & Skills**  
-💻 **Programming:** C++, Python, Java, JavaScript  
-🌐 **Web Development:** React.js, Node.js, Express.js, Tailwind CSS  
-📊 **Data Science & AI:** Machine Learning, Data Preprocessing, miRNA Analysis  
-🛠 **Tools:** Git, GitHub, Firebase, MongoDB, Docker  
+💻 **Programming:** C++,Java, JavaScript  
+🌐 **Web Development:** React.js, CSS  
+📊 **Data Science & AI:** Generative AI
+🛠 **Tools:** Git, GitHub, Mysql
 
 ---
 
 ### **📌 Featured Projects**  
 🚀 **[PromoCode Exchange](https://github.com/kalaikavya2004/promocode-exchange)** – A platform to trade & aggregate promo codes  
-📱 **[Skincare Store](https://github.com/kalaikavya2004/skincare-store)** – An online store with modern UI/UX  
+📱 **[Sme](https://github.com/kalaikavya2004/smefinal)** – An sme funding with modern UI/UX  
 🎮 **[Unbeatable Tic-Tac-Toe](https://github.com/kalaikavya2004/tic-tac-toe-ai)** – AI-powered unbeatable Tic-Tac-Toe using Minimax Algorithm  
 
 ---
@@ -33,6 +33,5 @@
 ### **📫 How to Reach Me?**  
 📧 **Email:** kala22041.it@rmkec.ac.in  
 🔗 **LinkedIn:** [linkedin.com/in/kalaikavya2004](https://www.linkedin.com/in/kalaikavya2004/)  
-💼 **Portfolio:** [Your Portfolio Link Here]  
 
 ---
